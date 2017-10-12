@@ -1,10 +1,11 @@
 ---
-ID: 67
+ID: 2413
 post_title: Red Carpet Fashion
 author: Peranakan Francis
 post_excerpt: ""
 layout: post
-permalink: https://khimyan.mobi/2016/02/fashion/
+permalink: >
+  https://khimyan.mobi/2016/02/red-carpet-fashion/
 published: true
 post_date: 2016-02-19 01:26:35
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 73
+ID: 2423
 post_title: Smart Watch Released
 author: Peranakan Francis
 post_excerpt: ""
 layout: post
 permalink: >
-  https://khimyan.mobi/2016/02/smart-watch-new-color/
+  https://khimyan.mobi/2016/02/smart-watch-released/
 published: true
 post_date: 2016-02-19 04:17:38
 ---

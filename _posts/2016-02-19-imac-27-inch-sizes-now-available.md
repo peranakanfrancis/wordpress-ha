@@ -1,10 +1,11 @@
 ---
-ID: 72
+ID: 2415
 post_title: iMac 27-inch sizes Now Available
 author: Peranakan Francis
 post_excerpt: ""
 layout: post
-permalink: https://khimyan.mobi/2016/02/imac/
+permalink: >
+  https://khimyan.mobi/2016/02/imac-27-inch-sizes-now-available/
 published: true
 post_date: 2016-02-19 02:44:22
 ---
